@@ -74,6 +74,7 @@ nav ul li{
 
 #myProgressBar{
     width: 80vw;
+    cursor: pointer;
 }
 
 .songItem{
@@ -114,7 +115,8 @@ nav ul li{
     display: flex;
     position:absolute;
     left:10vw;
-    align-items: center;    
+    align-items: center;  
+    font-family: 'Macondo', cursive;  
    
 }
 
